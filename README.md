@@ -85,3 +85,4 @@ References
 ----------
 
 - [Machine Learning on Raspberry Pi with Tensorflow](https://www.tertiarycourses.com.sg/deep-learning-neural-network-tensorflow.html)
+- [awesome-embedded-ai](https://github.com/ysh329/awesome-embedded-ai)
