@@ -28,4 +28,36 @@ Topics include:
 - Computer Vision 
 - Transfer Learning
 
-| [Bonnet]() | AI Implementation on Google AIY Vision Kit - Google AIY Vision Kit| 2018/1/27  |
+Module 1 Get Started
+---------------------
+
+- Overview of Tensorflow and Raspberry Pi
+- Install TensorFlow on Raspberry Pi
+
+Module 2 Machine Learning on Raspberry Pi
+-----------------------------------------
+
+- Basic Tensorflow Operations
+- Machine Learning with Tensorflow
+- Upload  ML Model to Raspberry Pi
+
+Module 3 Deep Learning Network on Raspberry PI
+---------------------------------------------
+
+- Deep Neural Network with Tensorflow
+- Upload DNN Model to Raspberry Pi
+
+Module 4 CNN Computer Vision on Raspberry Pi
+---------------------------------------------
+
+- Convolutional Neural Network (CNN) with Tensorflow
+
+- Upload CNN Model to Raspberry PI
+- Computer VIsion with Raspberry Pi Camera
+
+Module 5 Transfer Learning
+----------------------------
+
+- Introduction to VGG16 and Inception Transfer Learning Models
+- Commputer Vision using Transfer Learning on Raspberry Pi
+- Fine Tuning  Transfer Leaning with Raspberry Pi
