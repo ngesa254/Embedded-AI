@@ -2,6 +2,12 @@
 
 Intelligence at the edge
 
+<p align="center">
+  <a href="https://github.com/ngesa254/Embedded-AI>
+    <img alt="Embedded-AI" src="logo.jpg" width="300">
+  </a>
+</p>
+
 Deep Learning and Machine Learning on Embedded Devices with Tensorflow
 
 | Directory | Contents | Date |
