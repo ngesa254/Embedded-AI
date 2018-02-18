@@ -6,7 +6,7 @@ Intelligence at the edge
 
 | Directory | Contents | Date |
 ----|----|---- 
-| [Arduino]() | IoT on Arduino Tutorial. Hand-making Christmas Illumination - Arduinoを使ったIoT入門。クリスマスイルミネーション手作り | 2016/11/27 |
+| [Raspberry pi]() | IoT on Arduino Tutorial. Hand-making Christmas Illumination - Arduino IoT | 2016/11/27 |
 | [Python-basic](https://github.com/yoshihiroo/programming-workshop/tree/master/Python-basic) | Python Tutorial on cloud9 - cloud9| 2017/9/1 |
 | [deep-learning](https://github.com/yoshihiroo/programming-workshop/tree/master/deep-learning) | Deep Learning Tutorial on Python/cloud9 - Python Deep Learning) | 2017/5/28 |
 | [deep_learning_jupyter](https://github.com/yoshihiroo/programming-workshop/tree/master/deep_learning_jupyter) | Deep Learning Tutorial on Python/Jupyter - JupyterPython Deep Learning| 2017/12/2 |
